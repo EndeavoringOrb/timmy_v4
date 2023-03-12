@@ -1,0 +1,357 @@
+[Script Info]
+Title: English (US)
+Original Script: WarnerJapan  [http://www.crunchyroll.com/user/WarnerJapan]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: MainItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:10.65,0:00:15.86,TypeItalic,,0000,0000,0000,,-England, 1868-
+Dialogue: 0,0:00:14.07,0:00:16.49,Main,,0000,0000,0000,,Hey! Look at that wreck!
+Dialogue: 0,0:00:26.50,0:00:28.92,Main,,0000,0000,0000,,Yikes! This guy died on the spot.
+Dialogue: 0,0:00:29.46,0:00:33.67,Main,,0000,0000,0000,,They must've slipped in the mud\Nand fell off the cliff.
+Dialogue: 0,0:00:33.80,0:00:37.68,Main,,0000,0000,0000,,But boy do these nobles\Nhave some fancy clothes.
+Dialogue: 0,0:00:37.85,0:00:38.64,Main,,0000,0000,0000,,Look!
+Dialogue: 0,0:00:39.05,0:00:43.41,Main,,0000,0000,0000,,The woman inside is dead,\Nbut the baby is still alive!
+Dialogue: 0,0:00:43.98,0:00:46.19,Main,,0000,0000,0000,,She must have protected it.
+Dialogue: 0,0:00:46.19,0:00:47.35,Main,,0000,0000,0000,,A baby?!
+Dialogue: 0,0:00:47.35,0:00:48.98,Main,,0000,0000,0000,,Who cares about a baby?!
+Dialogue: 0,0:00:50.36,0:00:51.69,Main,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:00:51.90,0:00:53.86,Main,,0000,0000,0000,,What does it look like?!
+Dialogue: 0,0:00:54.70,0:00:56.49,Main,,0000,0000,0000,,I'm taking their jewelry!
+Dialogue: 0,0:00:57.87,0:00:58.87,Main,,0000,0000,0000,,What's that?
+Dialogue: 0,0:01:01.16,0:01:03.16,Main,,0000,0000,0000,,What a creepy mask.
+Dialogue: 0,0:01:03.75,0:01:05.00,Main,,0000,0000,0000,,It's worthless to me.
+Dialogue: 0,0:01:05.71,0:01:06.96,Main,,0000,0000,0000,,Give me a hand!
+Dialogue: 0,0:01:06.96,0:01:09.38,Main,,0000,0000,0000,,Let's yank out their teeth!
+Dialogue: 0,0:01:09.50,0:01:11.17,Main,,0000,0000,0000,,They'll fetch a good price!
+Dialogue: 0,0:01:12.50,0:01:13.84,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:01:14.30,0:01:16.72,Main,,0000,0000,0000,,You came to rescue me.
+Dialogue: 0,0:01:16.97,0:01:17.84,Main,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:01:19.18,0:01:20.14,Main,,0000,0000,0000,,My wife...
+Dialogue: 0,0:01:21.06,0:01:22.60,Main,,0000,0000,0000,,My wife and son...
+Dialogue: 0,0:01:23.06,0:01:24.60,Main,,0000,0000,0000,,Are they all right?
+Dialogue: 0,0:01:25.27,0:01:30.55,Main,,0000,0000,0000,,They cr-- Uh, I'm afraid your wife\Nand the driver are dead.
+Dialogue: 0,0:01:30.94,0:01:33.61,Main,,0000,0000,0000,,But the baby is safe.
+Dialogue: 0,0:01:35.57,0:01:37.99,Main,,0000,0000,0000,,Perhaps this is fate...
+Dialogue: 0,0:01:39.41,0:01:41.45,Main,,0000,0000,0000,,My name is George Joestar I.
+Dialogue: 0,0:01:42.03,0:01:44.75,Main,,0000,0000,0000,,I must thank you for saving my life.
+Dialogue: 0,0:01:45.04,0:01:49.63,Main,,0000,0000,0000,,Please tell me your name\Nwhile I am still conscious.
+Dialogue: 0,0:01:50.63,0:01:54.63,MainItalic,,0000,0000,0000,,He thinks I came to save his life!
+Dialogue: 0,0:01:55.21,0:01:57.30,MainItalic,,0000,0000,0000,,What a fool!
+Dialogue: 0,0:01:57.68,0:01:59.51,MainItalic,,0000,0000,0000,,It won't hurt to say my name.
+Dialogue: 0,0:02:00.06,0:02:02.39,Main,,0000,0000,0000,,Dario Brando at your service.
+Dialogue: 0,0:02:02.89,0:02:09.85,Main,,0000,0000,0000,,Mr. Brando, the Joestars\Nwill not forget our debt to you.
+Dialogue: 0,0:02:20.76,0:02:24.69,TypeItalic,,0000,0000,0000,,-12 years later-
+Dialogue: 0,0:02:22.40,0:02:23.97,Main,,0000,0000,0000,,There's a good boy!
+Dialogue: 0,0:02:25.29,0:02:26.95,Main,,0000,0000,0000,,I'm off, Dad!
+Dialogue: 0,0:02:26.95,0:02:29.08,Main,,0000,0000,0000,,Take care, JoJo!
+Dialogue: 0,0:02:29.25,0:02:30.54,Main,,0000,0000,0000,,Let's go, Danny!
+Dialogue: 0,0:02:42.64,0:02:43.43,Main,,0000,0000,0000,,Dio!
+Dialogue: 0,0:02:44.47,0:02:45.70,Main,,0000,0000,0000,,Come here!
+Dialogue: 0,0:02:46.60,0:02:49.35,Main,,0000,0000,0000,,Dio! Are you deaf, boy?!
+Dialogue: 0,0:02:53.48,0:02:55.90,Main,,0000,0000,0000,,What do you want, Father? Medicine?
+Dialogue: 0,0:02:56.03,0:02:59.53,Main,,0000,0000,0000,,Idiot! I don't want any snake oil!
+Dialogue: 0,0:02:59.53,0:03:03.49,Main,,0000,0000,0000,,If you have money,\Ngo buy me some booze!
+Dialogue: 0,0:03:10.16,0:03:11.67,Main,,0000,0000,0000,,JoJo, manners!
+Dialogue: 0,0:03:13.17,0:03:14.42,Main,,0000,0000,0000,,Sorry, Dad.
+Dialogue: 0,0:03:14.66,0:03:15.29,Main,,0000,0000,0000,,Check.
+Dialogue: 0,0:03:19.51,0:03:20.38,Main,,0000,0000,0000,,Fine.
+Dialogue: 0,0:03:25.68,0:03:28.22,Main,,0000,0000,0000,,Feeling smart now, kid?!
+Dialogue: 0,0:03:32.14,0:03:34.77,Main,,0000,0000,0000,,Stop! Give it back!
+Dialogue: 0,0:03:34.90,0:03:38.82,Main,,0000,0000,0000,,Hey, Erina!\NYour daddy buy you this doll?
+Dialogue: 0,0:03:38.98,0:03:42.78,Main,,0000,0000,0000,,He makes a lot of money\Nfor being a quack!
+Dialogue: 0,0:03:43.16,0:03:43.99,Main,,0000,0000,0000,,I know!
+Dialogue: 0,0:03:44.28,0:03:47.37,Main,,0000,0000,0000,,Let's peel her clothes off!
+Dialogue: 0,0:03:47.45,0:03:50.50,Main,,0000,0000,0000,,We'll see if it looks like\Nthe real thing!
+Dialogue: 0,0:03:54.29,0:03:59.34,Main,,0000,0000,0000,,She cried!\NErina's a crybaby!
+Dialogue: 0,0:03:59.51,0:04:00.21,Main,,0000,0000,0000,,Knock it off!
+Dialogue: 0,0:04:00.84,0:04:02.62,Main,,0000,0000,0000,,Give it back to her!
+Dialogue: 0,0:04:02.97,0:04:03.80,Main,,0000,0000,0000,,Who're you?
+Dialogue: 0,0:04:03.97,0:04:05.22,Main,,0000,0000,0000,,Erina's friend?
+Dialogue: 0,0:04:05.47,0:04:08.74,Main,,0000,0000,0000,,I don't know her,\Nbut I'll fight for her!
+Dialogue: 0,0:04:10.10,0:04:14.06,Main,,0000,0000,0000,,You dumb jerk.\NFighting 'cause she's a girl.
+Dialogue: 0,0:04:17.48,0:04:19.82,Main,,0000,0000,0000,,Huh? He's a total pushover!
+Dialogue: 0,0:04:22.19,0:04:27.61,Main,,0000,0000,0000,,How embarrassing!\NNow our brave knight needs saving!
+Dialogue: 0,0:04:31.87,0:04:34.71,Main,,0000,0000,0000,,This guy's the only son of the Joestars!
+Dialogue: 0,0:04:34.96,0:04:38.46,Main,,0000,0000,0000,,The one thing I can't stand\Nis a rich kid!
+Dialogue: 0,0:04:38.88,0:04:41.34,Main,,0000,0000,0000,,You stuck up snob!
+Dialogue: 0,0:04:41.67,0:04:43.05,Main,,0000,0000,0000,,Have some of this!
+Dialogue: 0,0:04:43.84,0:04:47.43,Main,,0000,0000,0000,,Dio, my time is almost up.
+Dialogue: 0,0:04:47.89,0:04:48.93,Main,,0000,0000,0000,,Listen!
+Dialogue: 0,0:04:50.51,0:04:56.98,Main,,0000,0000,0000,,When I die, take this letter\Nto the Joestar mansion!
+Dialogue: 0,0:04:57.23,0:04:59.50,Main,,0000,0000,0000,,They owe me something big.
+Dialogue: 0,0:05:00.19,0:05:05.92,Main,,0000,0000,0000,,You're a smart boy. Go out there\Nand become the world's richest man!
+Dialogue: 0,0:05:09.24,0:05:12.44,Main,,0000,0000,0000,,Just stay on your own land, rich kid.
+Dialogue: 0,0:05:12.44,0:05:13.41,Main,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:05:19.08,0:05:19.92,Main,,0000,0000,0000,,Are you --
+Dialogue: 0,0:05:19.92,0:05:21.34,Main,,0000,0000,0000,,Just leave me alone!
+Dialogue: 0,0:05:21.46,0:05:26.72,Main,,0000,0000,0000,,Go away!\NI didn't attack them for your sake!
+Dialogue: 0,0:05:27.93,0:05:30.77,Main,,0000,0000,0000,,I want to be a true gentleman!
+Dialogue: 0,0:05:31.39,0:05:33.62,Main,,0000,0000,0000,,You were a lady in distress.
+Dialogue: 0,0:05:34.06,0:05:37.77,Main,,0000,0000,0000,,A true gentleman has to be brave enough
+Dialogue: 0,0:05:37.77,0:05:41.82,Default,,0000,0000,0000,,\Nto go into a fight he knows he'll lose.
+Dialogue: 0,0:05:43.57,0:05:46.33,Main,,0000,0000,0000,,But one day,\NI'll be strong enough to win.
+Dialogue: 0,0:05:50.70,0:05:53.49,MainItalic,,0000,0000,0000,,You were ugly and sly.
+Dialogue: 0,0:05:53.49,0:05:55.45,MainItalic,,0000,0000,0000,,You drove Mom to death.
+Dialogue: 0,0:05:55.45,0:05:57.21,MainItalic,,0000,0000,0000,,You were a terrible father!
+Dialogue: 0,0:05:57.75,0:05:59.96,MainItalic,,0000,0000,0000,,You want me to be rich?
+Dialogue: 0,0:05:59.96,0:06:01.96,MainItalic,,0000,0000,0000,,Don't worry. I will be.
+Dialogue: 0,0:06:01.96,0:06:04.96,MainItalic,,0000,0000,0000,,And I'll use any means necessary.
+Dialogue: 0,0:06:05.30,0:06:07.80,MainItalic,,0000,0000,0000,,I'll start with this Joestar.
+Dialogue: 0,0:06:08.72,0:06:09.51,Main,,0000,0000,0000,,You pig!
+Dialogue: 0,0:06:17.10,0:06:19.56,MainItalic,,0000,0000,0000,,No one will bring me down.
+Dialogue: 0,0:06:26.32,0:06:28.37,Main,,0000,0000,0000,,Jonathan Joestar.
+Dialogue: 0,0:06:30.03,0:06:37.96,Main,,0000,0000,0000,,This is a tale of two youths and\Na stone mask that alters their fates.
+Dialogue: 0,0:06:42.81,0:06:47.25,TypeItalic,,0000,0000,0000,,Chapter 1: Dio the Invader
+Dialogue: 0,0:07:09.03,0:07:10.03,MainItalic,,0000,0000,0000,,Who is he?
+Dialogue: 0,0:07:11.57,0:07:13.78,Main,,0000,0000,0000,,You're Dio Brando, right?
+Dialogue: 0,0:07:13.91,0:07:16.79,Main,,0000,0000,0000,,And you must be Jonathan Joestar.
+Dialogue: 0,0:07:17.29,0:07:20.63,Main,,0000,0000,0000,,Everyone calls me JoJo.\NNice to meet you.
+Dialogue: 0,0:07:22.12,0:07:23.04,Main,,0000,0000,0000,,Danny!
+Dialogue: 0,0:07:24.71,0:07:27.09,Main,,0000,0000,0000,,See him? That's Danny.
+Dialogue: 0,0:07:27.09,0:07:28.59,Main,,0000,0000,0000,,He's my dog.
+Dialogue: 0,0:07:28.59,0:07:31.55,Main,,0000,0000,0000,,Don't worry.\NHe doesn't bite.
+Dialogue: 0,0:07:36.18,0:07:39.31,Main,,0000,0000,0000,,What was that for?!\NYou'll pay for that!
+Dialogue: 0,0:07:39.39,0:07:41.87,MainItalic,,0000,0000,0000,,So this is the Joestar heir.
+Dialogue: 0,0:07:42.90,0:07:45.73,MainItalic,,0000,0000,0000,,He looks like a pampered brat.
+Dialogue: 0,0:07:46.19,0:07:50.03,Main,,0000,0000,0000,,We'll see who has it all\Nafter I get through with him.
+Dialogue: 0,0:07:50.03,0:07:50.99,Main,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:07:53.45,0:07:55.02,Main,,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:07:55.70,0:07:59.83,Main,,0000,0000,0000,,I'm sorry. The dog jumped at me.\NIt was a reflex.
+Dialogue: 0,0:08:03.54,0:08:04.92,Main,,0000,0000,0000,,Welcome, Dio.
+Dialogue: 0,0:08:05.55,0:08:07.92,Main,,0000,0000,0000,,You are part of our family now.
+Dialogue: 0,0:08:08.42,0:08:13.55,Main,,0000,0000,0000,,Everyone, I owe my life\Nto this man's father.
+Dialogue: 0,0:08:14.13,0:08:16.39,Main,,0000,0000,0000,,Treat him as you would JoJo.
+Dialogue: 0,0:08:16.80,0:08:18.06,Main,,0000,0000,0000,,Yes, lord.
+Dialogue: 0,0:08:18.93,0:08:23.27,Main,,0000,0000,0000,,Dio, this is your home now.\NLive like JoJo does.
+Dialogue: 0,0:08:23.77,0:08:26.81,Main,,0000,0000,0000,,Thank you for your hospitality,\NSir Joestar.
+Dialogue: 0,0:08:27.61,0:08:31.40,Main,,0000,0000,0000,,You've both lost your mothers\Nand you're the same age.
+Dialogue: 0,0:08:31.40,0:08:33.45,Main,,0000,0000,0000,,You should get along well.
+Dialogue: 0,0:08:33.78,0:08:36.49,Main,,0000,0000,0000,,JoJo, forget about Danny, all right?
+Dialogue: 0,0:08:36.66,0:08:37.24,Main,,0000,0000,0000,,Yes, Dad.
+Dialogue: 0,0:08:37.91,0:08:43.50,Main,,0000,0000,0000,,I'm sure I'd be surprised if a strange\Ndog jumped at me, so I understand.
+Dialogue: 0,0:08:45.04,0:08:47.74,MainItalic,,0000,0000,0000,,I do wish he'd apologize.
+Dialogue: 0,0:08:48.25,0:08:52.63,Main,,0000,0000,0000,,But we'll be living together,\Nso I have to be nice.
+Dialogue: 0,0:08:53.01,0:08:56.47,Main,,0000,0000,0000,,This way, Dio.\NI'll show you your room.
+Dialogue: 0,0:08:56.47,0:08:57.43,Main,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:09:05.31,0:09:06.73,Main,,0000,0000,0000,,Hands off!
+Dialogue: 0,0:09:06.73,0:09:09.65,Main,,0000,0000,0000,,No one touches my bags!
+Dialogue: 0,0:09:10.15,0:09:13.09,Main,,0000,0000,0000,,Keep your dirty paws to yourself!
+Dialogue: 0,0:09:13.09,0:09:13.99,Default,,0000,0000,0000,,\NGot it?!
+Dialogue: 0,0:09:14.19,0:09:15.99,Main,,0000,0000,0000,,I was trying to help!
+Dialogue: 0,0:09:15.99,0:09:16.99,Main,,0000,0000,0000,,No thanks!
+Dialogue: 0,0:09:18.28,0:09:20.62,Main,,0000,0000,0000,,I'll have a servant carry them.
+Dialogue: 0,0:09:22.04,0:09:23.70,Main,,0000,0000,0000,,Listen closely, JoJo.
+Dialogue: 0,0:09:23.70,0:09:28.04,Main,,0000,0000,0000,,I might be your guest,\Nbut I won't take any lip from you.
+Dialogue: 0,0:09:28.04,0:09:31.09,Main,,0000,0000,0000,,I always come first! I'm number one!
+Dialogue: 0,0:09:31.09,0:09:33.71,Main,,0000,0000,0000,,No one looks down\Ntheir nose at me!
+Dialogue: 0,0:09:33.71,0:09:36.05,Main,,0000,0000,0000,,But I just want to be friends!
+Dialogue: 0,0:09:36.05,0:09:38.86,Main,,0000,0000,0000,,And another thing, I hate dogs.
+Dialogue: 0,0:09:38.86,0:09:43.27,Main,,0000,0000,0000,,They don't scare me.\NI just can't stand their bootlicking.
+Dialogue: 0,0:09:43.27,0:09:46.81,Main,,0000,0000,0000,,So keep that dumb mutt\NDanny away from me.
+Dialogue: 0,0:09:47.23,0:09:49.36,Main,,0000,0000,0000,,What's keeping you two?
+Dialogue: 0,0:09:49.36,0:09:50.31,Main,,0000,0000,0000,,Hurry along.
+Dialogue: 0,0:09:50.98,0:09:51.86,Main,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:09:53.73,0:09:59.50,Main,,0000,0000,0000,,With Dio's arrival, JoJo's happy life\Nspiraled into misery.
+Dialogue: 0,0:10:01.41,0:10:03.12,Main,,0000,0000,0000,,That's another mistake, JoJo!
+Dialogue: 0,0:10:03.58,0:10:06.46,Main,,0000,0000,0000,,Look at Dio!\N20 out of 20 correct!
+Dialogue: 0,0:10:10.92,0:10:13.80,Main,,0000,0000,0000,,JoJo, you call yourself a gentleman?!
+Dialogue: 0,0:10:13.80,0:10:15.71,Main,,0000,0000,0000,,Where are your manners?!
+Dialogue: 0,0:10:17.42,0:10:19.76,Main,,0000,0000,0000,,Clear JoJo's place.
+Dialogue: 0,0:10:20.51,0:10:22.18,Main,,0000,0000,0000,,No dinner for you.
+Dialogue: 0,0:10:22.47,0:10:27.56,Main,,0000,0000,0000,,Looking at Dio, I see I've spoiled you.\NI've been a shameful father!
+Dialogue: 0,0:10:28.27,0:10:30.52,Main,,0000,0000,0000,,Dio's manners are impeccable!
+Dialogue: 0,0:10:36.94,0:10:38.07,Main,,0000,0000,0000,,What an oaf.
+Dialogue: 0,0:10:40.20,0:10:43.91,Main,,0000,0000,0000,,In this corner is Jonathan Joestar!
+Dialogue: 0,0:10:44.41,0:10:46.83,Main,,0000,0000,0000,,He's looking stronger lately!
+Dialogue: 0,0:10:47.45,0:10:49.50,Main,,0000,0000,0000,,And his opponent...
+Dialogue: 0,0:10:49.75,0:10:51.96,Main,,0000,0000,0000,,...has been changed.
+Dialogue: 0,0:10:52.63,0:10:56.46,Main,,0000,0000,0000,,All we know is his name!\NHe's the new guy in town!
+Dialogue: 0,0:10:57.13,0:10:57.97,MainItalic,,0000,0000,0000,,It couldn't be!
+Dialogue: 0,0:11:00.47,0:11:04.14,Main,,0000,0000,0000,,Introducing Dio Brando!
+Dialogue: 0,0:11:05.43,0:11:09.48,Main,,0000,0000,0000,,You know the rules.\NOne hit to the face wins it.
+Dialogue: 0,0:11:09.48,0:11:10.06,Main,,0000,0000,0000,,Begin!
+Dialogue: 0,0:11:11.15,0:11:13.48,Main,,0000,0000,0000,,- Get him, JoJo!\N- Take him down!
+Dialogue: 0,0:11:18.78,0:11:20.24,Main,,0000,0000,0000,,Look at those moves!
+Dialogue: 0,0:11:20.49,0:11:21.86,Main,,0000,0000,0000,,I've never seen the like!
+Dialogue: 0,0:11:22.53,0:11:23.57,MainItalic,,0000,0000,0000,,I can't connect!
+Dialogue: 0,0:11:23.82,0:11:26.95,MainItalic,,0000,0000,0000,,JoJo is better than I had expected.
+Dialogue: 0,0:11:27.37,0:11:28.00,MainItalic,,0000,0000,0000,,But...
+Dialogue: 0,0:11:32.21,0:11:37.34,Main,,0000,0000,0000,,I'll show him how we do it in the\Nbad part of town, Booth Boxing style!
+Dialogue: 0,0:11:37.63,0:11:38.63,MainItalic,,0000,0000,0000,,Eat this!
+Dialogue: 0,0:11:39.51,0:11:41.01,Main,,0000,0000,0000,,There it is!
+Dialogue: 0,0:11:41.51,0:11:43.55,Main,,0000,0000,0000,,JoJo is out!
+Dialogue: 0,0:11:43.68,0:11:45.97,MainItalic,,0000,0000,0000,,It's not over yet, JoJo!
+Dialogue: 0,0:11:46.60,0:11:51.19,Main,,0000,0000,0000,,I'll jam my thumb in his eye\Nand follow through!
+Dialogue: 0,0:11:57.15,0:11:58.77,Main,,0000,0000,0000,,Did you see that?!
+Dialogue: 0,0:11:58.77,0:12:00.03,Main,,0000,0000,0000,,Dio!
+Dialogue: 0,0:12:00.19,0:12:02.32,Main,,0000,0000,0000,,Dio, that was amazing!
+Dialogue: 0,0:12:02.32,0:12:04.03,Main,,0000,0000,0000,,How did you do that?
+Dialogue: 0,0:12:04.37,0:12:07.88,Main,,0000,0000,0000,,It's just a new defensive technique\Nin boxing.
+Dialogue: 0,0:12:08.29,0:12:11.33,Main,,0000,0000,0000,,I'll teach it to you guys as a favor.
+Dialogue: 0,0:12:11.33,0:12:12.21,Main,,0000,0000,0000,,Really?
+Dialogue: 0,0:12:12.50,0:12:17.67,Main,,0000,0000,0000,,But don't teach it to JoJo.\NHe can't keep a secret.
+Dialogue: 0,0:12:18.13,0:12:20.10,Main,,0000,0000,0000,,- He can't?\N- Thanks for the warning.
+Dialogue: 0,0:12:21.09,0:12:21.97,Main,,0000,0000,0000,,Why?
+Dialogue: 0,0:12:21.97,0:12:24.76,Main,,0000,0000,0000,,Why do that on purpose?
+Dialogue: 0,0:12:27.89,0:12:30.52,MainItalic,,0000,0000,0000,,Loneliness will make a man hollow.
+Dialogue: 0,0:12:30.85,0:12:33.52,MainItalic,,0000,0000,0000,,I'll turn JoJo into an empty husk!
+Dialogue: 0,0:12:34.14,0:12:41.43,Main,,0000,0000,0000,,Bit by bit, I'll steal his life.\NWhen I'm an adult, he'll have nothing.
+Dialogue: 0,0:12:45.66,0:12:47.12,Main,,0000,0000,0000,,Damn that Dio!
+Dialogue: 0,0:12:47.91,0:12:49.37,Main,,0000,0000,0000,,This is awful.\N
+Dialogue: 0,0:12:49.37,0:12:51.37,Default,,0000,0000,0000,,It's like he's taking over my life.
+Dialogue: 0,0:12:51.75,0:12:53.33,Main,,0000,0000,0000,,Hey! Get a move on!
+Dialogue: 0,0:12:54.50,0:12:56.54,Main,,0000,0000,0000,,Hey! What are you doing?
+Dialogue: 0,0:12:56.71,0:12:59.00,Main,,0000,0000,0000,,Come here!\NLet me join in on the fun!
+Dialogue: 0,0:13:01.59,0:13:04.01,Main,,0000,0000,0000,,Did you guys hear something?
+Dialogue: 0,0:13:04.01,0:13:06.55,Main,,0000,0000,0000,,Ignore it.\NIt's just a snitch.
+Dialogue: 0,0:13:06.55,0:13:07.72,Main,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:07.97,0:13:10.10,Main,,0000,0000,0000,,Get back here! Who's a snitch?!
+Dialogue: 0,0:13:11.14,0:13:12.22,Main,,0000,0000,0000,,Let's split.
+Dialogue: 0,0:13:12.22,0:13:13.87,Main,,0000,0000,0000,,You're a snitch, JoJo!
+Dialogue: 0,0:13:13.87,0:13:16.49,Main,,0000,0000,0000,,You'll blab to anyone\Nover anything!
+Dialogue: 0,0:13:16.49,0:13:17.35,Main,,0000,0000,0000,,Squealer!
+Dialogue: 0,0:13:17.44,0:13:19.11,Main,,0000,0000,0000,,Hold on! Get back here!
+Dialogue: 0,0:13:19.40,0:13:22.44,Main,,0000,0000,0000,,I never squealed on anybody!
+Dialogue: 0,0:13:22.61,0:13:25.03,Main,,0000,0000,0000,,JoJo the squealer!
+Dialogue: 0,0:13:25.78,0:13:28.03,Main,,0000,0000,0000,,Dio! Dio did this!
+Dialogue: 0,0:13:28.24,0:13:31.14,Main,,0000,0000,0000,,He's spreading wild rumors about me!
+Dialogue: 0,0:13:31.14,0:13:34.54,Main,,0000,0000,0000,,He's trying to destroy me\Nfor some reason!
+Dialogue: 0,0:13:34.96,0:13:36.33,Main,,0000,0000,0000,,Curse you, Dio!
+Dialogue: 0,0:13:45.84,0:13:50.51,Main,,0000,0000,0000,,Ever since he showed up,\Neveryone's turned on me!
+Dialogue: 0,0:13:52.93,0:13:57.58,Main,,0000,0000,0000,,Danny, you'll be my friend\Nno matter what Dio does.
+Dialogue: 0,0:14:11.45,0:14:13.49,Main,,0000,0000,0000,,Who was that?
+Dialogue: 0,0:14:13.87,0:14:16.75,Main,,0000,0000,0000,,I feel like I've seen her before.
+Dialogue: 0,0:14:19.04,0:14:20.29,Main,,0000,0000,0000,,My handkerchief!
+Dialogue: 0,0:14:21.00,0:14:22.21,Main,,0000,0000,0000,,Aha!
+Dialogue: 0,0:14:22.71,0:14:24.59,Main,,0000,0000,0000,,Thanks for the grapes!
+Dialogue: 0,0:14:25.13,0:14:28.72,Main,,0000,0000,0000,,I'll be here tomorrow!\NCome see me!
+Dialogue: 0,0:14:31.39,0:14:36.50,Main,,0000,0000,0000,,She went off without a word.\NGirls are so cute!
+Dialogue: 0,0:14:37.52,0:14:42.19,Main,,0000,0000,0000,,In that dark time, Jonathan's heart\Nwas spurred on by love!
+Dialogue: 0,0:14:43.19,0:14:47.57,Main,,0000,0000,0000,,They quickly became friends,\Nand Jonathan was enchanted by her.
+Dialogue: 0,0:14:47.95,0:14:50.32,Main,,0000,0000,0000,,Erina.\NErina Pendleton.
+Dialogue: 0,0:14:50.99,0:14:52.83,MainItalic,,0000,0000,0000,,She's an angel!
+Dialogue: 0,0:14:54.70,0:14:56.50,Main,,0000,0000,0000,,What are you doing, JoJo?
+Dialogue: 0,0:14:58.04,0:15:00.50,Main,,0000,0000,0000,,JoJo! You can't do that!
+Dialogue: 0,0:15:00.87,0:15:01.88,Main,,0000,0000,0000,,You're no good!
+Dialogue: 0,0:15:04.55,0:15:06.96,Main,,0000,0000,0000,,See you!\NBye bye!
+Dialogue: 0,0:15:21.90,0:15:24.98,Main,,0000,0000,0000,,Hi. Are you Erina?
+Dialogue: 0,0:15:25.32,0:15:28.49,Main,,0000,0000,0000,,You and JoJo look happy together.
+Dialogue: 0,0:15:29.49,0:15:31.36,Main,,0000,0000,0000,,I knew something was wrong.
+Dialogue: 0,0:15:31.86,0:15:37.24,Main,,0000,0000,0000,,He's been happy\Nwhere he should be miserable.
+Dialogue: 0,0:15:44.21,0:15:45.67,Main,,0000,0000,0000,,He did it!
+Dialogue: 0,0:15:48.30,0:15:52.47,Main,,0000,0000,0000,,That's our Dio!\NHe's got way more guts than we do!
+Dialogue: 0,0:15:52.47,0:15:54.93,Main,,0000,0000,0000,,He's my idol!\NI want to be him!
+Dialogue: 0,0:15:56.60,0:15:59.31,Main,,0000,0000,0000,,Have you and JoJo kissed yet?
+Dialogue: 0,0:15:59.81,0:16:01.48,Main,,0000,0000,0000,,Not yet, eh?
+Dialogue: 0,0:16:01.81,0:16:04.27,Main,,0000,0000,0000,,Your first kiss was not with him!
+Dialogue: 0,0:16:04.65,0:16:05.94,Main,,0000,0000,0000,,It was with me!
+Dialogue: 0,0:16:08.65,0:16:12.94,Main,,0000,0000,0000,,Even if I stole it, the fact\Nthat I kissed her is enough!
+Dialogue: 0,0:16:13.32,0:16:15.77,MainItalic,,0000,0000,0000,,Their little romance is over!
+Dialogue: 0,0:16:16.37,0:16:19.41,Main,,0000,0000,0000,,He won't have a single\Nfriend or lover!
+Dialogue: 0,0:16:20.79,0:16:23.92,Main,,0000,0000,0000,,Look! What is she doing?!
+Dialogue: 0,0:16:24.50,0:16:26.84,Main,,0000,0000,0000,,What is she thinking?
+Dialogue: 0,0:16:26.84,0:16:29.17,Main,,0000,0000,0000,,She's washing with puddle water!
+Dialogue: 0,0:16:29.63,0:16:33.72,Main,,0000,0000,0000,,Is she nuts? There's a stream nearby!
+Dialogue: 0,0:16:34.72,0:16:36.18,Main,,0000,0000,0000,,You wench!
+Dialogue: 0,0:16:36.68,0:16:39.43,Main,,0000,0000,0000,,You're just doing that to insult me!
+Dialogue: 0,0:16:46.40,0:16:50.61,Main,,0000,0000,0000,,Dio, you fool! Don't lose your head\Nover a dumb girl!
+Dialogue: 0,0:16:51.78,0:16:53.74,Main,,0000,0000,0000,,We're done here! Let's go.
+Dialogue: 0,0:16:57.95,0:16:59.87,Main,,0000,0000,0000,,Hey, Erina!
+Dialogue: 0,0:17:04.92,0:17:06.38,Main,,0000,0000,0000,,Erina, wait!
+Dialogue: 0,0:17:06.96,0:17:09.93,MainItalic,,0000,0000,0000,,This isn't right. What happened?
+Dialogue: 0,0:17:12.51,0:17:15.40,Main,,0000,0000,0000,,Look at that sorry look on his face!
+Dialogue: 0,0:17:15.40,0:17:19.56,Main,,0000,0000,0000,,Go tell him why she ran away!
+Dialogue: 0,0:17:19.89,0:17:24.56,Main,,0000,0000,0000,,But I just couldn't bear\Nto see JoJo cry!
+Dialogue: 0,0:17:25.82,0:17:27.06,Main,,0000,0000,0000,,Why you...
+Dialogue: 0,0:17:27.73,0:17:28.94,Main,,0000,0000,0000,,What did you do?
+Dialogue: 0,0:17:29.61,0:17:31.40,Main,,0000,0000,0000,,What did you do to her?!
+Dialogue: 0,0:17:36.07,0:17:38.82,Main,,0000,0000,0000,,Dio!
+Dialogue: 0,0:17:42.24,0:17:47.33,Main,,0000,0000,0000,,I wouldn't use my name lightly\Nif I were you.
+Dialogue: 0,0:17:47.75,0:17:51.92,Main,,0000,0000,0000,,This ends now!\NI won't let you hurt her again!
+Dialogue: 0,0:17:51.92,0:17:54.05,Main,,0000,0000,0000,,Your fight is with me!
+Dialogue: 0,0:17:54.09,0:17:58.22,Main,,0000,0000,0000,,So you heard about your darling Erina?
+Dialogue: 0,0:17:58.22,0:18:01.81,Main,,0000,0000,0000,,Now you want to take revenge,\Nwith your fists, eh?
+Dialogue: 0,0:18:01.93,0:18:04.02,Main,,0000,0000,0000,,I won't let you insult her!
+Dialogue: 0,0:18:04.56,0:18:06.77,Main,,0000,0000,0000,,You're just twisted by jealousy!
+Dialogue: 0,0:18:08.44,0:18:12.69,Main,,0000,0000,0000,,You want more of what happened\Nwhen we boxed?!
+Dialogue: 0,0:18:17.66,0:18:18.86,MainItalic,,0000,0000,0000,,I can't beat him.
+Dialogue: 0,0:18:19.24,0:18:25.20,Main,,0000,0000,0000,,But if I lose here, I'll have to spend\Nmy life cowering in Dio's shadow.
+Dialogue: 0,0:18:25.45,0:18:30.21,Main,,0000,0000,0000,,But most of all,\NI have to fight for Erina's honor!
+Dialogue: 0,0:18:31.42,0:18:33.84,MainItalic,,0000,0000,0000,,I'm going to pulverize him.
+Dialogue: 0,0:18:33.84,0:18:36.30,MainItalic,,0000,0000,0000,,And I'll do it fair and square.
+Dialogue: 0,0:18:36.30,0:18:43.68,Main,,0000,0000,0000,,That way he'll know beyond a doubt\Nhe can never beat me.
+Dialogue: 0,0:18:43.93,0:18:46.23,MainItalic,,0000,0000,0000,,Not in a fight, and not in life.
+Dialogue: 0,0:18:48.23,0:18:48.94,Main,,0000,0000,0000,,Come!
+Dialogue: 0,0:18:53.15,0:18:55.60,MainItalic,,0000,0000,0000,,That's it! That felt good!
+Dialogue: 0,0:18:56.82,0:19:00.70,Main,,0000,0000,0000,,How could he grab me after that kick?!
+Dialogue: 0,0:19:00.95,0:19:02.57,Main,,0000,0000,0000,,How about some more?!
+Dialogue: 0,0:19:06.83,0:19:10.04,Main,,0000,0000,0000,,Dio!
+Dialogue: 0,0:19:10.79,0:19:14.17,Main,,0000,0000,0000,,I'm going to beat you until you cry!
+Dialogue: 0,0:19:14.34,0:19:17.42,MainItalic,,0000,0000,0000,,How could rubbish like him beat me?!
+Dialogue: 0,0:19:31.94,0:19:32.94,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:19:33.44,0:19:34.48,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:19:34.86,0:19:36.11,Main,,0000,0000,0000,,You...
+Dialogue: 0,0:19:36.86,0:19:39.57,Main,,0000,0000,0000,,You have a lot of nerve, don't you?!
+Dialogue: 0,0:19:40.65,0:19:41.57,Main,,0000,0000,0000,,He's crying.
+Dialogue: 0,0:19:42.24,0:19:44.83,Main,,0000,0000,0000,,You filthy cur!
+Dialogue: 0,0:19:45.95,0:19:47.75,Main,,0000,0000,0000,,What's going on, you two?!
+Dialogue: 0,0:19:49.29,0:19:50.00,Main,,0000,0000,0000,,Dad!
+Dialogue: 0,0:19:51.50,0:19:54.21,Main,,0000,0000,0000,,Boys fight. That can't be helped.
+Dialogue: 0,0:19:54.21,0:19:58.33,Main,,0000,0000,0000,,But JoJo, you were beating \NDio while he was down
+Dialogue: 0,0:19:58.33,0:20:00.63,Default,,0000,0000,0000,,and unable to defend himself!
+Dialogue: 0,0:20:01.26,0:20:03.18,Main,,0000,0000,0000,,- That's not civil!\N- But --
+Dialogue: 0,0:20:03.18,0:20:04.26,Main,,0000,0000,0000,,No excuses!
+Dialogue: 0,0:20:04.43,0:20:06.39,Main,,0000,0000,0000,,To your rooms, both of you!
+Dialogue: 0,0:20:07.39,0:20:09.54,Main,,0000,0000,0000,,You'll both be punished later.
+Dialogue: 0,0:20:18.53,0:20:20.57,Main,,0000,0000,0000,,What's that box?
+Dialogue: 0,0:20:21.20,0:20:22.40,Main,,0000,0000,0000,,Oh, well.
+Dialogue: 0,0:20:22.91,0:20:25.20,Main,,0000,0000,0000,,I bet a maid threw it away.
+Dialogue: 0,0:20:33.00,0:20:34.46,Main,,0000,0000,0000,,What's that?
+Dialogue: 0,0:20:35.17,0:20:37.42,Main,,0000,0000,0000,,Something's banging around.
+Dialogue: 0,0:20:37.71,0:20:40.92,Main,,0000,0000,0000,,Is someone in there?!
+Dialogue: 0,0:20:41.34,0:20:45.39,Main,,0000,0000,0000,,No! They're burning alive in there!
+Dialogue: 0,0:20:50.31,0:20:51.27,Main,,0000,0000,0000,,Erina...
+Dialogue: 0,0:20:52.27,0:20:53.60,Main,,0000,0000,0000,,Damn that Dio!
+Dialogue: 0,0:20:54.23,0:20:57.53,Main,,0000,0000,0000,,This is what you were aiming for!
+Dialogue: 0,0:20:57.53,0:20:59.72,Default,,0000,0000,0000,,\NWell, you got what you wanted!
+Dialogue: 0,0:21:02.99,0:21:07.88,Main,,0000,0000,0000,,The sight of him was too much to bear,\Nso we buried him quickly.
+Dialogue: 0,0:21:08.62,0:21:14.21,Main,,0000,0000,0000,,The police say a burglar probably\Nwanted Danny out of the way.
+Dialogue: 0,0:21:14.67,0:21:15.37,Main,,0000,0000,0000,,Dio...
+Dialogue: 0,0:21:15.96,0:21:19.84,Main,,0000,0000,0000,,Dio? He hasn't returned from school yet.
+Dialogue: 0,0:21:21.51,0:21:25.39,MainItalic,,0000,0000,0000,,JoJo went to his room and slept.
+Dialogue: 0,0:21:25.97,0:21:29.49,Main,,0000,0000,0000,,After he woke, he thought about Danny,
+Dialogue: 0,0:21:30.69,0:21:34.28,Default,,0000,0000,0000,,\Nthe companion he had lost, and cried.
+Dialogue: 0,0:21:35.69,0:21:42.66,Main,,0000,0000,0000,,I evened the score by killing that mutt,\Nbut I had no idea JoJo was so strong.
+Dialogue: 0,0:21:43.11,0:21:45.90,Main,,0000,0000,0000,,The more you beat him,\Nthe tougher he gets.
+Dialogue: 0,0:21:46.78,0:21:49.41,MainItalic,,0000,0000,0000,,My anger makes me vulnerable.
+Dialogue: 0,0:21:49.66,0:21:51.08,MainItalic,,0000,0000,0000,,I have to fix that.
+Dialogue: 0,0:21:51.37,0:21:56.54,MainItalic,,0000,0000,0000,,I must learn to cool my temper.
+Dialogue: 0,0:21:57.46,0:22:00.82,MainItalic,,0000,0000,0000,,Seven years passed...
+Dialogue: 0,0:23:36.52,0:23:38.52,TypeItalic,,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:37.56,0:23:38.79,MainItalic,,0000,0000,0000,,Seven years later...
+Dialogue: 0,0:23:39.27,0:23:42.02,Main,,0000,0000,0000,,And Jonathan Joestar steals the ball!
+Dialogue: 0,0:23:42.02,0:23:43.38,Main,,0000,0000,0000,,I just had a terrifying thought!
+Dialogue: 0,0:23:43.38,0:23:45.65,Main,,0000,0000,0000,,You said you'd be fine\Nmissing four fingers!
+Dialogue: 0,0:23:45.65,0:23:47.00,Main,,0000,0000,0000,,Our friendship will be lost!
+Dialogue: 0,0:23:47.00,0:23:49.53,Main,,0000,0000,0000,,I'll defend my father, and my family!
+Dialogue: 0,0:23:49.53,0:23:51.52,Type,,0000,0000,0000,,Chapter 2:\NA Letter From the Past
+Dialogue: 0,0:23:51.52,0:23:53.52,Type,,0000,0000,0000,,

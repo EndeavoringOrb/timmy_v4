@@ -1,0 +1,4 @@
+!pip install wget
+import wget
+url = 'https://raw.githubusercontent.com/<username>/<repository>/main/example.py'
+wget.download(url, 'example.py')
